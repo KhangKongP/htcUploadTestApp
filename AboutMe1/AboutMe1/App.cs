@@ -21,7 +21,7 @@ namespace AboutMe1
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Hello world and people!"
+                            Text = "Hello poopypeople!"
                         }
                     }
                 }
